@@ -35,4 +35,6 @@
 
 ###
 
-![Description](assets/dragon.gif)
+<div align="center">
+  <img src="assets/dragon.gif" alt="Description" />
+</div>
