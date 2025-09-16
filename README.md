@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/gemuel-cornillez/gemuel-cornillez/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
+
 <img src="https://raw.githubusercontent.com/gemuel-cornillez/gemuel-cornillez/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -8,7 +12,6 @@
 </div>
 
 ###
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
